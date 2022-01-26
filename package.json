@@ -1,0 +1,21 @@
+{
+  "name": "video-streaming",
+  "version": "1.0.0",
+  "description": "A simple byte by byte transfer for streaming a video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "video-streaming",
+    "optimized-video-straming",
+    "sample-video-streaming-app"
+  ],
+  "author": "Harshit Chhipa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
